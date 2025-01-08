@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_v_4=self.webpackChunkwebsite_v_4||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"\u535a\u5ba2\u5217\u8868","items":[{"title":"Hello from UESTCMC","permalink":"/blog/hello","unlisted":false,"date":"2025-01-05T00:00:00.000Z"}]}')}}]);
