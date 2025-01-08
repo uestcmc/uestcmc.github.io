@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>UESTC Minecraft Community Blog</title>
-        <link>https://uestcmc.pages.dev/blog</link>
+        <link>https://uestc.world/blog</link>
         <description>UESTC Minecraft Community Blog</description>
         <lastBuildDate>Sun, 05 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Hello from UESTCMC]]></title>
-            <link>https://uestcmc.pages.dev/blog/hello</link>
-            <guid>https://uestcmc.pages.dev/blog/hello</guid>
+            <link>https://uestc.world/blog/hello</link>
+            <guid>https://uestc.world/blog/hello</guid>
             <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[TODO]]></description>
             <content:encoded><![CDATA[<p>TODO</p>]]></content:encoded>
