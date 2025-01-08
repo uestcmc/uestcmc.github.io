@@ -1,0 +1,51 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --home-shadow-1: rgba(64, 64, 64, 0.5);
+  --home-shadow-2: rgba(255, 255, 255, 0.75);
+}
+
+[data-theme='dark'] {
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --home-shadow-1: rgba(128, 128, 128, 0.5);
+  --home-shadow-2: rgba(0, 0, 0, 0.25);
+}
+
+.home {
+  background-image: url('@site/static/img/background-day-v.png');
+  background-size: cover;
+  background-position: center;
+}
+
+[data-theme='dark'] .home {
+  background-image: url('@site/static/img/background-night-v.png');
+  background-size: cover;
+  background-position: center;
+}
+
+@media (min-width: 997px) {
+  .home {
+    background-image: url('@site/static/img/background-day.png');
+  }
+  [data-theme='dark'] .home {
+    background-image: url('@site/static/img/background-night.png');
+  }
+}
+
+@font-face {
+  font-family: 'Minecraft';
+  src: url('@site/static/fonts/minecraft.ttf') format('truetype');
+}
+
+.mc {
+  font-family: 'Minecraft', 'Unifont', sans-serif;
+}
