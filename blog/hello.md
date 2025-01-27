@@ -2,6 +2,9 @@
 date: 2025-01-05
 ---
 
-# Hello from UESTCMC
+# UESTCMC 官网上线
 
-TODO
+UESTCMC 官网正式上线。
+
+
+

@@ -6,7 +6,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '交流平台',
-    icon: require('@site/static/img/cooperate.png').default,
+    icon: '/img/cooperate.png',
     description: (
       <>
         这里也是 Minecraft 交流平台<br/>
@@ -18,7 +18,7 @@ const FeatureList = [
   },
   {
     title: '玩家社区',
-    icon: require('@site/static/img/usb.png').default,
+    icon: '/img/usb.png',
     description: (
       <>
         在这里你可以分享你自己的服务器<br/>
@@ -30,7 +30,7 @@ const FeatureList = [
   },
   {
     title: '高校联合',
-    icon: require('@site/static/img/mua.png').default,
+    icon: '/img/mua.png',
     description: (
       <>
         通过 Minecraft 高校联盟 (MUA)<br/>
@@ -46,7 +46,7 @@ function Feature({icon, title, description, link}) {
   return (
     <div className={clsx('col col--4', styles.feature)}>
       <div className="text--center">
-        <img src={icon} height="200" />
+        <img src={icon} height="192" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

@@ -16,7 +16,7 @@ function HomepageHeader() {
         </Heading>
         <h2 className={clsx('hero__subtitle', 'mc')}>电子科技大学 Minecraft 社区</h2>
         
-        <img src="/img/logo.png" height="240" width="240" />
+        <img src="/img/logo.png" height="256" width="256" />
       </div>
     </header>
   );

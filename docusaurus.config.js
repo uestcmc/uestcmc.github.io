@@ -94,7 +94,7 @@ const config = {
         links: [
           
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} UESTCMC. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UESTCMC.`,
       },
       prism: {
         theme: prismThemes.github,
