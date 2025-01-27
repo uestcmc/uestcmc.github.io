@@ -9,12 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Hello from UESTCMC]]></title>
+            <title><![CDATA[UESTCMC 官网上线]]></title>
             <link>https://uestc.world/blog/hello</link>
             <guid>https://uestc.world/blog/hello</guid>
             <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[TODO]]></description>
-            <content:encoded><![CDATA[<p>TODO</p>]]></content:encoded>
+            <description><![CDATA[UESTCMC 官网正式上线。]]></description>
+            <content:encoded><![CDATA[<p>UESTCMC 官网正式上线。</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
