@@ -15,7 +15,7 @@ const config = {
 
   // staticDirectories: ['public', 'static'],
   // Set the production url of your site here
-  url: 'https://uestc.world',
+  url: 'https://www.uestc.world',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',

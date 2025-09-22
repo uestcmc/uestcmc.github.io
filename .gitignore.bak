@@ -21,3 +21,9 @@ yarn-error.log*
 
 *-tmp.md
 *_tmp.md
+
+# obsidian
+/.obsidian
+
+# Backup
+docusaurus.config.js.bak
