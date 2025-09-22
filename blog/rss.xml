@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>UESTC Minecraft Community Blog</title>
-        <link>https://uestc.world/blog</link>
+        <link>https://www.uestc.world/blog</link>
         <description>UESTC Minecraft Community Blog</description>
         <lastBuildDate>Sun, 05 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[UESTCMC 官网上线]]></title>
-            <link>https://uestc.world/blog/hello</link>
-            <guid>https://uestc.world/blog/hello</guid>
+            <link>https://www.uestc.world/blog/hello</link>
+            <guid>https://www.uestc.world/blog/hello</guid>
             <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[UESTCMC 官网正式上线。]]></description>
             <content:encoded><![CDATA[<p>UESTCMC 官网正式上线。</p>]]></content:encoded>
