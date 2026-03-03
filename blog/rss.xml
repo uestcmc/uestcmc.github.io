@@ -4,10 +4,46 @@
         <title>UESTC Minecraft Community Blog</title>
         <link>https://www.uestc.world/blog</link>
         <description>UESTC Minecraft Community Blog</description>
-        <lastBuildDate>Sun, 05 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[哈比列车小游戏]]></title>
+            <link>https://www.uestc.world/blog/harby</link>
+            <guid>https://www.uestc.world/blog/harby</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[【哈比快车整合包、服务器已经更新，请在群文件中下载新版】]]></description>
+            <content:encoded><![CDATA[<p>【哈比快车整合包、服务器已经更新，请在群文件中下载新版】</p>
+<p>哈比列车小游戏服务器正式启动！</p>
+<p>哈比列车是一个类狼人杀小游戏，具体游玩指南请阅读 <a href="https://docs.qq.com/sheet/DSmNxWFd5VkhhV1ZG" target="_blank" rel="noopener noreferrer">哈比列车游玩指南</a>。游玩过程遇到的新职业可以在指南中添加该职业介绍。</p>
+<p>服务器地址：happy.mc.unisch.com</p>
+<p>整合包请务必使用群文件-整合包资源-哈比列车整合包（请务必使用）</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bingo 小游戏服务器]]></title>
+            <link>https://www.uestc.world/blog/bingo</link>
+            <guid>https://www.uestc.world/blog/bingo</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[整合包： 在群文件的整合包资源目录下可以找到]]></description>
+            <content:encoded><![CDATA[<p><strong>整合包：</strong> 在群文件的整合包资源目录下可以找到</p>
+<p><strong>地址：</strong> action.mc.unisch.com</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[格雷科技：新征程 - GregTech Odyssey 整合包服务器]]></title>
+            <link>https://www.uestc.world/blog/gto</link>
+            <guid>https://www.uestc.world/blog/gto</guid>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[【格雷，是格雷】]]></description>
+            <content:encoded><![CDATA[<p>【格雷，是格雷】</p>
+<p>格雷科技：新征程 - GregTech Odyssey,整合包服务器现已开启，欢迎各位新老格雷员工进入游玩。</p>
+<p>当前整合包版本已更新至0.5.0，可下载群文件/整合包资源/GregTech.Odyssey-0.5.0-beta.zip后拖入PCL2自动安装。</p>
+<p><strong>服务器连接</strong>：</p>
+<ol>
+<li>电信/校园网线路（低延迟，推荐）：gto.uestc.world</li>
+<li>穿透路线：gto.frp.uestc.world</li>
+</ol>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[UESTCMC 官网上线]]></title>
             <link>https://www.uestc.world/blog/hello</link>
