@@ -12,9 +12,14 @@
         <id>https://www.uestc.world/blog/paoku</id>
         <link href="https://www.uestc.world/blog/paoku"/>
         <updated>2026-03-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ip27755]]></summary>
-        <content type="html"><![CDATA[<p>ip: frp-fox.com:27755</p>
-<p>版本: 1.20.1原版</p>]]></content>
+        <summary type="html"><![CDATA[- ip27755]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li><strong>ip:</strong> frp-fox.com:27755</li>
+<li><strong>版本:</strong> 1.20.1原版</li>
+<li>输入 !s 可切换旁观</li>
+<li>/server xxxxx 可切换地图 (注: limbo 那张会很难)</li>
+</ul>
+<p>欢迎群友提供好玩的地图（最好兼容 1.20.1）</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[哈比列车小游戏]]></title>
